@@ -1,1 +1,86 @@
+body {
+ background-color: #22AED1 ;	
+}
+
+h1 {
+	font-family:'cabin' , sans-serif;
+	border-bottom: 5px solid #232ED1;
+	padding-bottom: 0;
+	text-align: left;
+	margin-bottom: 0;
+	margin-top: 40px;
+	font-weight: normal;
+	display: inline-block;
+	color: #A50104;
+}
+
+h2 {
+	border-bottom: none;
+	text-align: center;
+	color: #A50104;
+	font-size: 50px;
+	font-weight: 50px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 40px;
+	font-weight: 40px;
+	color: #A50104;
+}
+
+p {
+	font-family: 'cabin' , sans-serif;
+	border-bottom: 5px solid #016FB9;
+	float: left;
+}
+
+p {
+	font-family: 'cabin' , sans-serif;
+	font-size: 20px;
+}
+
+header {
+	text-align: center;
+	margin-bottom: 25px;
+	font-weight: 60px;
+	font-size: 60px;
+}
+
+.top-photo {
+	width: 50%;
+	margin: 0 25%;
+}
+
+#about-the-lab-wrap {
+	width: 100%;
+	margin-top: 50px;
+}
+
+#about-the-lab-wrap img {
+	width: 45%;
+	margin: 0 5% 0 0;
+	float: left;
+}
+
+#about-the-lab-wrap .text-wrap {
+	width: 50%;
+	float: left;
+}
+
+
+ul.more-lab-info li {
+	text-align: left;
+	font-size: 20px;
+	font-family: 'cabin' , sans-serif;	
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 50px;
+	margin-top: 100px;
+	color: #A50104;
+	font-weight: 25px;
+	font-size: 25px;
+}
 
